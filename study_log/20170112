@@ -1,0 +1,23 @@
+# 昨日まで
+
+昨日はxcodeをインストールして、どのチュートリアルがよいのかとか調べつついろいろした
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
+
+## メモ
+
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+
+https://github.com/hatena/Hatena-Textbook/blob/master/swift-development-apps.md
+
+https://github.com/cookpad/cookpad-internship-2016-summer
+
+アップルのやつは簡単なstory boardは作れるようになりそう
+それ以上はcookpadとかはてなのやつをやると良さそう。
+
+というわけで、まずはアップルからやる
+
+# 今日やったこと
+
+もうちょっとチュートリアル調べる。
+最後まできた
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/ConnectTheUIToCode.html#//apple_ref/doc/uid/TP40015214-CH22-SW1
